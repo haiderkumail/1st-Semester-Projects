@@ -1,0 +1,4 @@
+motercycles: 1,50
+rickshaws: 0,0
+cars: 0,0
+buses: 0,0
